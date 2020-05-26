@@ -1,2 +1,2 @@
 # test
-tset repo
+test repo for git commands demo
